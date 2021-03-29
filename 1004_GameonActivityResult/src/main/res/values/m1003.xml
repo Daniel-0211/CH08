@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m1003_t001">和電腦猜拳</string>
+    <string name="m1003_t002">電腦出拳</string>
+    <string name="m1003_t003">玩家出拳</string>
+    <string name="m1003_b001">剪刀</string>
+    <string name="m1003_b002">石頭</string>
+    <string name="m1003_b003">布</string>
+    <string name="m1003_b004">顯示局數統計資料</string>
+    <string name="m1003_c001">剪刀</string>
+    <string name="m1003_t004">您選擇:</string>
+    <string name="m1003_t005">判定輸贏:</string>
+    <string name="m1003_f003">雙方平手!</string>
+    <string name="m1003_f001">恭喜您贏了!</string>
+    <string name="m1003_f002">很可惜，您輸了!</string>
+    <string name="li_t001">全部局數：</string>
+    <string name="li_t002">玩家贏：</string>
+    <string name="li_t003">電腦贏：</string>
+    <string name="li_t004">平手：</string>
+    <string name="li_b001">回到遊戲</string>
+    <string name="li_h001">顯示次數</string>
+    <string name="btnLaunchAct">啟動電腦猜拳遊戲</string>
+    <string name="txtResult">遊戲結果</string>
+    <string name="m1004_result">遊戲結果:你總共玩</string>
+    <string name="m1004_table">局</string>
+    <string name="m1004_PlayerWin">贏</string>
+    <string name="m1004_comWin">輸</string>
+    <string name="m1004_draw">平</string>
+    <string name="canceled">你選擇取消遊戲</string>
+</resources>
